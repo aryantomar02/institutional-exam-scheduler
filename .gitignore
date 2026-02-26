@@ -1,0 +1,53 @@
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+.venv/
+.env/
+
+# -----------------------------
+# Streamlit cache
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# Output files (generated reports)
+# -----------------------------
+output/*.xlsx
+output/*.csv
+output/*.txt
+
+# -----------------------------
+# Data files (optional - if you don’t want to upload dummy data)
+# Uncomment below if needed
+# data/*.xlsx
+
+# -----------------------------
+# MacOS system files
+# -----------------------------
+.DS_Store
+
+# -----------------------------
+# VS Code settings (optional)
+# -----------------------------
+.vscode/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Temporary files
+# -----------------------------
+*.tmp
+*.bak
